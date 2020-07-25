@@ -1,2 +1,2 @@
-# Product-Template
-Product Template - FreeCodeCamp Web-Design Project
+# Product - Landing Page
+Product Landing Page - FreeCodeCamp Responsive Web Design Project
